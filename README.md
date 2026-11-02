@@ -80,14 +80,6 @@ Date,Region,Product,Sales
 2025-01-01,North,Laptop,50000
 2025-01-02,South,Phone,30000
 ```
----
-
-## 🖼️ Output
-![Program Output](output.png)
-
-![Visualization chart](pie_chart.png)
-
----
 
 ## 📁 Project Structure
 
@@ -100,9 +92,17 @@ pandas-analyzer-data-visualization
 ├── output.png
 ├── README.md
 
+```
+
 ---
 
-```
+## 🖼️ Output
+![Program Output](output.png)
+
+![Visualization chart](pie_chart.png)
+
+
+---
 ## 👩‍💻 Author / Developer
 
 **Pansuriya Princy**
